@@ -23,6 +23,20 @@ Password: 1234567
 <img src="./assets/SignUp.png" width="49%"/>
 </p>
 
+## Mobile Visuals
+
+<p align="center">
+<img src="./assets/mobileHomePage.png" width="25%"/>
+<img src="./assets/mobileLogin.png" width="25%"/>
+<img src="./assets/mobileSignUp.png" width="25%"/>
+</p>
+
+<p align="center">
+<img src="./assets/mobileBrowseAll.gif" width="25%"/>
+<img src="./assets/mobileCountrySpecific.gif" width="25%"/>
+<img src="./assets/mobileMyItinerary.gif" width="25%"/>
+</p>
+
 ## Tech Stack
 
 - Front end: JavaScript, React, React Router Dom, Axios, HTML, CSS, Sass, Bootstrap
@@ -241,7 +255,7 @@ With the value of the delete button set to activityId, I was able to access this
 ### Known Bugs
 
 - The content is very slow to load when you first enter the site.
-- When users update an activity the the udpated information doesn't display until the user re-loads the page.
+- When users update an activity the updated information doesn't display until the user re-loads the page.
 - The links do not work on the Personal Itinerary page.
 
 ## Challenges
